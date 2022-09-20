@@ -1,0 +1,4 @@
+module "kubernetes" {
+  source = "./deployment"
+}
+
